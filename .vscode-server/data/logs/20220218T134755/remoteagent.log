@@ -1,0 +1,17 @@
+[2022-02-18 13:47:56.288] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-18 13:47:56.288] [remoteagent] [info] Extension host agent started.
+[2022-02-18 13:47:56.628] [remoteagent] [info] [127.0.0.1][bfcecddb][ManagementConnection] New connection established.
+[2022-02-18 13:47:59.110] [remoteagent] [info] [127.0.0.1][bfb37b30][ExtensionHostConnection] New connection established.
+[2022-02-18 13:48:06.027] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-02-18 13:48:06.028] [remoteagent] [error] RequestService#request resolving shell environment failed {}
+[2022-02-18 13:48:06.032] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-02-18 13:48:06.048] [remoteagent] [info] [127.0.0.1][bfb37b30][ExtensionHostConnection] <99> Launched Extension Host Process.
