@@ -26,3 +26,5 @@
 [2022-02-17 19:24:04.741] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/knisterpeter.vscode-github-0.30.7
 [2022-02-17 19:24:04.743] [remoteagent] [info] Extracting completed. knisterpeter.vscode-github
 [2022-02-17 19:24:04.744] [remoteagent] [info] Extension installed successfully: knisterpeter.vscode-github
+[2022-02-17 20:38:22.495] [remoteagent] [info] [127.0.0.1][77d61f8f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-17 20:38:23.513] [remoteagent] [info] [127.0.0.1][6ce5445f][ExtensionHostConnection] <6019> Extension Host Process exited with code: 0, signal: null.
