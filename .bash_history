@@ -22,3 +22,16 @@ git .
 git add .
 git commit -m "Commit de programa ramificado con if, elif y else"
 git status
+explorer.exe .
+code .
+git -v
+cd practica_python/
+python3 enumeracion.py
+python3 aproximacion.py
+cd ..
+pwd
+git status
+git add .
+git commit -m "practica_python"
+git pull origin master
+git push origin master
