@@ -125,3 +125,37 @@
 [2022-04-03T00:51:06.653Z] > git remote --verbose [1ms]
 [2022-04-03T00:51:06.653Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
 [2022-04-03T00:51:06.685Z] > git config --get commit.template [2ms]
+[2022-04-03T00:52:26.741Z] > git ls-files --stage -- /home/lrb96/practica_python/aproximacion.py [1ms]
+[2022-04-03T00:52:26.748Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-03T00:52:26.751Z] > git cat-file -s c891c55bf2ea8b50b3641d73220e58a69ffe7a7b [6ms]
+[2022-04-03T00:52:26.751Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [0ms]
+[2022-04-03T00:52:26.756Z] > git remote --verbose [1ms]
+[2022-04-03T00:52:26.756Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-04-03T00:52:26.779Z] > git config --get commit.template [2ms]
+[2022-04-03T00:52:47.822Z] > git push -u origin master [18322ms]
+[2022-04-03T00:52:47.822Z] remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File f0e5ee92568d38325e8421effda07b8528848329 is 75.63 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:LRB96/portafolio_python.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at 36721b98f612cfcb5937c75360ed30c21e21943f but expected a291e79046992364fea0ec4d6bda3c9c2e98e612)
+error: failed to push some refs to 'git@github.com:LRB96/portafolio_python.git'
+[2022-04-03T00:52:53.141Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-03T00:52:53.144Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [0ms]
+[2022-04-03T00:52:53.151Z] > git remote --verbose [1ms]
+[2022-04-03T00:52:53.151Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-04-03T00:52:53.160Z] > git config --get commit.template [0ms]
+[2022-04-03T00:52:54.333Z] > git fetch [1210ms]
+[2022-04-03T00:52:54.352Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-03T00:52:54.355Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [0ms]
+[2022-04-03T00:52:54.362Z] > git remote --verbose [2ms]
+[2022-04-03T00:52:54.362Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-04-03T00:52:54.365Z] > git config --get commit.template [1ms]
+[2022-04-03T00:52:55.405Z] > git ls-files --stage -- /home/lrb96/practica_python/aproximacion.py [1ms]
+[2022-04-03T00:52:55.407Z] > git cat-file -s c891c55bf2ea8b50b3641d73220e58a69ffe7a7b [0ms]
+[2022-04-03T00:53:10.968Z] > git ls-files --stage -- /home/lrb96/practica_python/aproximacion.py [4ms]
+[2022-04-03T00:53:10.972Z] > git cat-file -s c891c55bf2ea8b50b3641d73220e58a69ffe7a7b [0ms]
+[2022-04-03T00:53:10.972Z] > git symbolic-ref --short HEAD [4ms]
+[2022-04-03T00:53:10.975Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-04-03T00:53:10.982Z] > git remote --verbose [3ms]
+[2022-04-03T00:53:10.983Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-04-03T00:53:10.986Z] > git config --get commit.template [0ms]
