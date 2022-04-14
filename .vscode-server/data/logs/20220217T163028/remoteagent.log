@@ -1,0 +1,30 @@
+[2022-02-17 16:30:28.797] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-02-17 16:30:28.797] [remoteagent] [info] Extension host agent started.
+[2022-02-17 16:30:30.074] [remoteagent] [info] [127.0.0.1][77d61f8f][ManagementConnection] New connection established.
+[2022-02-17 16:30:30.080] [remoteagent] [info] [127.0.0.1][6ce5445f][ExtensionHostConnection] New connection established.
+[2022-02-17 16:30:30.086] [remoteagent] [info] [127.0.0.1][6ce5445f][ExtensionHostConnection] <6019> Launched Extension Host Process.
+[2022-02-17 19:23:29.456] [remoteagent] [info] Getting Manifest... github.copilot
+[2022-02-17 19:23:29.744] [remoteagent] [info] Installing extension: github.copilot
+[2022-02-17 19:23:32.345] [remoteagent] [info] Downloaded extension: github.copilot /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/github.copilot-1.7.5067
+[2022-02-17 19:23:32.696] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.f1c928b7-4751-41c6-add2-9b92a4908bef: github.copilot
+[2022-02-17 19:23:32.792] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/github.copilot-1.7.5067
+[2022-02-17 19:23:32.795] [remoteagent] [info] Extracting completed. github.copilot
+[2022-02-17 19:23:32.796] [remoteagent] [info] Extension installed successfully: github.copilot
+[2022-02-17 19:23:57.449] [remoteagent] [info] Getting Manifest... knisterpeter.vscode-github
+[2022-02-17 19:23:57.733] [remoteagent] [info] Installing extension: knisterpeter.vscode-github
+[2022-02-17 19:24:00.843] [remoteagent] [info] Downloaded extension: knisterpeter.vscode-github /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.7
+[2022-02-17 19:24:04.248] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.76b58174-8f71-46f3-aae5-46db4e517355: knisterpeter.vscode-github
+[2022-02-17 19:24:04.741] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/knisterpeter.vscode-github-0.30.7
+[2022-02-17 19:24:04.743] [remoteagent] [info] Extracting completed. knisterpeter.vscode-github
+[2022-02-17 19:24:04.744] [remoteagent] [info] Extension installed successfully: knisterpeter.vscode-github
+[2022-02-17 20:38:22.495] [remoteagent] [info] [127.0.0.1][77d61f8f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-02-17 20:38:23.513] [remoteagent] [info] [127.0.0.1][6ce5445f][ExtensionHostConnection] <6019> Extension Host Process exited with code: 0, signal: null.
