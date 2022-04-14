@@ -1,0 +1,7 @@
+[2022-04-13 21:34:04.958] [remoteagent] [info] Extension host agent started.
+[2022-04-13 21:34:05.103] [remoteagent] [info] [127.0.0.1][f0fc16e9][ManagementConnection] New connection established.
+[2022-04-13 21:34:05.111] [remoteagent] [info] Deleted from disk github.copilot /home/lrb96/.vscode-server/extensions/github.copilot-1.11.5453
+[2022-04-13 21:34:05.386] [remoteagent] [info] [127.0.0.1][c066f106][ExtensionHostConnection] New connection established.
+[2022-04-13 21:34:05.394] [remoteagent] [info] [127.0.0.1][c066f106][ExtensionHostConnection] <8092> Launched Extension Host Process.
+[2022-04-13 21:34:09.792] [remoteagent] [info] [127.0.0.1][f0fc16e9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-13 21:34:09.816] [remoteagent] [info] [127.0.0.1][c066f106][ExtensionHostConnection] <8092> Extension Host Process exited with code: 0, signal: null.

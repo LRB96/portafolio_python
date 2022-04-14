@@ -10,13 +10,26 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1649901807,,"wq"
+|2,0,1649901743,,"wq"
+:H
+|2,0,1649901719,,"H"
+:qw
+|2,0,1649901632,,"qw"
+:
+|2,0,1649901629,,""
 :q
-|2,0,1649901766,,"q"
+|2,0,1649901622,,"q"
+:help
+|2,0,1649901582,,"help"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1649901720,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -25,18 +38,40 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"r	CHAR	0
+	w
+|3,0,27,0,1,0,1649902427,"w"
+"w	CHAR	0
+	e
+|3,0,32,0,1,0,1649901625,"e"
 
 # File marks:
-'0  4  2  ~/carpeta_prueba/file.txt
-|4,48,4,2,1649901807,"~/carpeta_prueba/file.txt"
+'0  1  0  ~/carpeta/file.txt
+|4,48,1,0,1649903630,"~/carpeta/file.txt"
+'1  1  0  ~/carpeta_prueba/NetrwMessage
+|4,49,1,0,1649903629,"~/carpeta_prueba/NetrwMessage"
+'2  4  2  ~/carpeta_prueba/file.txt
+|4,50,4,2,1649901807,"~/carpeta_prueba/file.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/carpeta/file.txt
+|4,39,1,0,1649903630,"~/carpeta/file.txt"
+-'  1  0  ~/carpeta_prueba/NetrwMessage
+|4,39,1,0,1649903629,"~/carpeta_prueba/NetrwMessage"
+-'  4  2  ~/carpeta_prueba/file.txt
+|4,39,4,2,1649901807,"~/carpeta_prueba/file.txt"
 -'  4  2  ~/carpeta_prueba/file.txt
 |4,39,4,2,1649901807,"~/carpeta_prueba/file.txt"
 -'  1  0  ~/carpeta_prueba/file.txt
 |4,39,1,0,1649901798,"~/carpeta_prueba/file.txt"
+-'  1  0  ~/carpeta_prueba/file.txt
+|4,39,1,0,1649901798,"~/carpeta_prueba/file.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/carpeta/file.txt
+	*	1649903630	0
+	"	1	0
 
 > ~/carpeta_prueba/file.txt
 	*	1649901806	0
@@ -44,3 +79,7 @@
 	^	4	3
 	.	4	3
 	+	4	3
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1649901617	0
+	"	1	0
