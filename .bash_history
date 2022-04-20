@@ -33,3 +33,16 @@ git add .
 git commit -m "carpetas_finales_agregadas"
 git pull  origin master
 git push origin master
+sudo apt-get update
+sudo apt-get upgrade
+git status
+git add .
+git commit -m "commit archivos ."
+git status
+git pull origin master
+git push origin master
+code .
+git log
+cd ~
+pwd
+explorer.exe .
