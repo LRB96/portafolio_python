@@ -13,3 +13,13 @@
 [2022-04-21 15:47:06.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-04-21 15:54:43.173] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
 [2022-04-21 15:54:44.909] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:54:46.560] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:54:48.224] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:54:53.266] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:54:58.317] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:55:03.362] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:55:08.411] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:55:12.344] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 489
+[2022-04-21 15:55:27.639] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-21 15:55:27.640] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/22c8033fce1128eb83496dc2ce071fc7/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-21 15:55:27.652] [exthost] [info] Extension host with pid 469 exiting with code 0

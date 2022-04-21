@@ -142,3 +142,42 @@ avenv
 deactivate
 cd ..
 pwd
+pwd
+sudo apt-get update
+sudo apt-get upgrade
+git status
+code .
+cd proyecto_ejemplo/
+avenv
+source .cd ..
+cd ..
+pwd
+source /punto_files/.bashrc
+source /punto_files/.bashrpwdc
+pwd
+source ~/punto_files/.bashrc
+avenv
+cd punto_files/
+avenv
+cd ..
+cd proyecto_ejemplo/
+avenv
+deactivate
+cd ..
+pwd
+mkdir cs_python_intermedio
+rm -r cs_python_intermedio/
+all
+mkdir curso_python_intermedio
+cd curso_python_intermedio/
+python3 -m venv venv
+avenv
+deactivate
+all
+code .
+avenv
+touch lists_and_dicts.py
+all
+python3 lists_and_dicts.py
+touch lists_comprehensions.py
+python3 lists_comprehensions.py

@@ -2,3 +2,5 @@
 [2022-04-21 15:47:03.977] [remoteagent] [info] [127.0.0.1][191fba28][ManagementConnection] New connection established.
 [2022-04-21 15:47:04.127] [remoteagent] [info] [127.0.0.1][dabc7031][ExtensionHostConnection] New connection established.
 [2022-04-21 15:47:04.136] [remoteagent] [info] [127.0.0.1][dabc7031][ExtensionHostConnection] <469> Launched Extension Host Process.
+[2022-04-21 15:55:27.639] [remoteagent] [info] [127.0.0.1][191fba28][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-21 15:55:27.660] [remoteagent] [info] [127.0.0.1][dabc7031][ExtensionHostConnection] <469> Extension Host Process exited with code: 0, signal: null.
