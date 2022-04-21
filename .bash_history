@@ -121,3 +121,24 @@ git pull origin master
 git push origin master
 git status
 explorer.exe .
+git status
+git add .
+git commit -m "commit del dia"
+git status
+git pull origin master
+git push origin master
+sudo apt-get update
+sudo apt-get upgrade
+all
+source punto_files/.bashrc
+all
+avenv
+cd punto_files
+avenv
+all
+cd ..
+cd proyecto_ejemplo/
+avenv
+deactivate
+cd ..
+pwd
