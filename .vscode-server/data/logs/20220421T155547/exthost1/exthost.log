@@ -11,3 +11,6 @@
 [2022-04-21 15:55:49.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-04-21 15:55:49.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 [2022-04-21 15:55:49.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-21 17:31:57.261] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-21 17:31:57.262] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/05ab06ea14554d20649d19e18ffdc1fb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-21 17:31:57.280] [exthost] [info] Extension host with pid 982 exiting with code 0

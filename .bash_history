@@ -181,3 +181,40 @@ all
 python3 lists_and_dicts.py
 touch lists_comprehensions.py
 python3 lists_comprehensions.py
+source ~/punt
+source ~/punto_files/.bashrc
+all
+cd curso_python_intermedio/
+avenv
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+touch dictionary_comprehensions.py
+python3 dictionary_comprehensions.py
+clear
+python3 dictionary_comprehensions.py
+clear
+python3 dictionary_comprehensions.py
+cd ..
+deactivate
+pwd
+git status
+git add .
+git commit -m "lists_dicts_comprehensions"
+git pull origin master
+git push origin master
