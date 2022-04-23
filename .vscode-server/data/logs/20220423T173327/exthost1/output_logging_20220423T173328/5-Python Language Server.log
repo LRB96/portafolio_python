@@ -1,0 +1,16 @@
+[Info  - 5:33:30 PM] (11618) Pylance language server 2022.4.2 (pyright 90161194) starting
+[Info  - 5:33:30 PM] (11618) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 5:33:30 PM] (11618) No configuration file found.
+[Info  - 5:33:30 PM] (11618) No pyproject.toml file found.
+[Info  - 5:33:30 PM] (11618) Setting pythonPath for service "curso_python_intermedio": "/home/lrb96/curso_python_intermedio/venv/bin/python"
+[Warn  - 5:33:30 PM] (11618) stubPath /home/lrb96/curso_python_intermedio/typings is not a valid directory.
+[Info  - 5:33:30 PM] (11618) Assuming Python version 3.8
+[Info  - 5:33:30 PM] (11618) Assuming Python platform Linux
+[Info  - 5:33:30 PM] (11618) Searching for source files
+[Info  - 5:33:30 PM] (11618) Auto-excluding /home/lrb96/curso_python_intermedio/venv
+[Info  - 5:33:30 PM] (11618) Found 5 source files
+[Info  - 5:33:31 PM] (11618) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 5:33:31 PM] (11618) Background analysis(1) started
+[Info  - 5:33:31 PM] (11618) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist (index)
+[Info  - 5:33:31 PM] (11618) Indexing(2) started
+[Info  - 5:33:31 PM] (11618) Indexer done(2). indexed 426 files

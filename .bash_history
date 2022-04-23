@@ -309,3 +309,82 @@ clear
 deactivate
 cd ..
 pwd
+source ~/punto_files/.bashrc
+all
+git status
+git add .
+git commit -m "filtrando_datos.py"
+git pull origin master
+git push origin master
+all
+clear
+cd curso_python_intermedio/
+avenv
+code .
+py filtrando_datos.py 
+python filtrando_datos.py 
+clear
+deactivate
+cd ..
+pwd
+sudo apt-get update
+sudo apt-get install python3.9
+cd curso_python_intermedio/
+avenv
+python filtrando_datos.py 
+code .
+python3 --version
+deactivate
+cd ..
+pwd
+source ~/punto_files/.bashrc
+all
+cd curso_python_intermedio/
+avenv
+all
+python filtrando_datos.py 
+python --version
+deactivate 
+cd ..
+pwd
+clear
+sudo apt update
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.9
+python3.9 --version
+cd curso_python_intermedio/
+avenv
+code .
+python filtrando_datos.py
+python --version
+python3.9 --version
+all
+sudo apt update
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt install python3.9
+python --version
+deactivate
+python filtrando_datos.py 
+py filtrando_datos.py 
+python3 filtrando_datos.py 
+python --version
+python --v
+python3.9 --version
+all
+avenv
+py filtrando_datos.py
+deactivate
+py filtrando_datos.py
+sudo apt install pythonpy
+py filtrando_datos.py
+all
+avenv
+py filtrando_datos.py
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+decativate
+deactivate
+/bin/python3.9 /home/lrb96/curso_python_intermedio/filtrando_datos.py

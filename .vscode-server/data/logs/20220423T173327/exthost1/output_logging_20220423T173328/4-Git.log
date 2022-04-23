@@ -1,0 +1,19 @@
+[2022-04-23T22:33:29.512Z] Validating found git in: git
+[2022-04-23T22:33:29.682Z] Using git 2.25.1 from git
+[2022-04-23T22:33:29.973Z] > git rev-parse --git-dir [20ms]
+[2022-04-23T22:33:29.977Z] Open repository: /home/lrb96
+[2022-04-23T22:33:30.052Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-23T22:33:30.060Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [3ms]
+[2022-04-23T22:33:30.072Z] > git remote --verbose [2ms]
+[2022-04-23T22:33:30.072Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-04-23T22:33:30.084Z] > git config --get commit.template [2ms]
+[2022-04-23T22:34:35.719Z] > git ls-files --stage -- /home/lrb96/curso_python_intermedio/filtrando_datos.py [2ms]
+[2022-04-23T22:34:35.722Z] > git cat-file -s 24c17c37aae5880eb021abc5ad3a8ebcadddfc40 [1ms]
+[2022-04-23T22:34:38.905Z] > git fetch [4800ms]
+[2022-04-23T22:34:38.945Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-23T22:34:38.949Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [1ms]
+[2022-04-23T22:34:38.954Z] > git remote --verbose [1ms]
+[2022-04-23T22:34:38.954Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-04-23T22:34:38.960Z] > git config --get commit.template [1ms]
+[2022-04-23T22:34:39.458Z] > git ls-files --stage -- /home/lrb96/curso_python_intermedio/filtrando_datos.py [2ms]
+[2022-04-23T22:34:39.462Z] > git cat-file -s 24c17c37aae5880eb021abc5ad3a8ebcadddfc40 [1ms]

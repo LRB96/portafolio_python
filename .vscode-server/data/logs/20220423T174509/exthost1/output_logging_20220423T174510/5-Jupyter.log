@@ -1,0 +1,13 @@
+Visual Studio Code (1.66.2, wsl, desktop)
+Jupyter Extension Version: 2022.3.1000901801.
+Python Extension Version: 2022.4.1.
+Workspace folder ~/curso_python_intermedio
+Info 17:45:38: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 17:45:39: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+Info 17:45:39: Process Execution: > ~/curso_python_intermedio/venv/bin/python -m pip list
+> ~/curso_python_intermedio/venv/bin/python -m pip list
+Info 17:54:48: Getting activation commands for /bin/python3.9 are not cached. May take a while.
+Info 17:54:48: Process Execution: > /bin/python3.9 -m pip list
+> /bin/python3.9 -m pip list

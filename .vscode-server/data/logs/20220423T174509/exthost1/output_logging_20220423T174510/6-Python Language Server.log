@@ -1,0 +1,28 @@
+[Info  - 5:45:39 PM] (1194) Pylance language server 2022.4.2 (pyright 90161194) starting
+[Info  - 5:45:39 PM] (1194) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 5:45:39 PM] (1194) No configuration file found.
+[Info  - 5:45:39 PM] (1194) No pyproject.toml file found.
+[Info  - 5:45:39 PM] (1194) Setting pythonPath for service "curso_python_intermedio": "/home/lrb96/curso_python_intermedio/venv/bin/python"
+[Warn  - 5:45:39 PM] (1194) stubPath /home/lrb96/curso_python_intermedio/typings is not a valid directory.
+[Info  - 5:45:39 PM] (1194) Assuming Python version 3.8
+[Info  - 5:45:39 PM] (1194) Assuming Python platform Linux
+[Info  - 5:45:39 PM] (1194) Searching for source files
+[Info  - 5:45:39 PM] (1194) Auto-excluding /home/lrb96/curso_python_intermedio/venv
+[Info  - 5:45:39 PM] (1194) Found 5 source files
+[Info  - 5:45:40 PM] (1194) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 5:45:40 PM] (1194) Background analysis(1) started
+[Info  - 5:45:40 PM] (1194) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist (index)
+[Info  - 5:45:40 PM] (1194) Indexing(2) started
+[Info  - 5:45:40 PM] (1194) Indexer done(2). indexed 426 files
+[Info  - 5:54:48 PM] (1194) No configuration file found.
+[Info  - 5:54:48 PM] (1194) No pyproject.toml file found.
+[Info  - 5:54:48 PM] (1194) Setting pythonPath for service "curso_python_intermedio": "/bin/python3.9"
+[Warn  - 5:54:48 PM] (1194) stubPath /home/lrb96/curso_python_intermedio/typings is not a valid directory.
+[Info  - 5:54:48 PM] (1194) Assuming Python version 3.9
+[Info  - 5:54:48 PM] (1194) Assuming Python platform Linux
+[Info  - 5:54:48 PM] (1194) Searching for source files
+[Info  - 5:54:48 PM] (1194) Auto-excluding /home/lrb96/curso_python_intermedio/venv
+[Info  - 5:54:48 PM] (1194) Found 5 source files
+[Info  - 5:54:48 PM] (1194) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2/dist (index)
+[Info  - 5:54:48 PM] (1194) Indexing(3) started
+[Info  - 5:54:49 PM] (1194) Indexer done(3). indexed 455 files
