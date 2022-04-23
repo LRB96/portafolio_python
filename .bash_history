@@ -218,3 +218,94 @@ git add .
 git commit -m "lists_dicts_comprehensions"
 git pull origin master
 git push origin master
+source ./punto_files/.bashrc
+all
+pwd
+cd curso_python_intermedio/
+avenv
+git status
+cd ..
+pwd
+deactivate
+pwd
+git status
+git add .
+git commit -m "mas archivos ."
+git status
+cd curso_python_intermedio/
+avenv
+git status
+python dictionary_comprehensions.py 
+python lists_comprehensions.py
+clear
+python3 lists_comprehensions.py
+clear
+code .
+python dictionary_comprehensions.py 
+clear
+python dictionary_comprehensions.py 
+clear
+python dictionary_comprehensions.py 
+clear
+python dictionary_comprehensions.py 
+clear
+python dictionary_comprehensions.py 
+clear
+touch high_order_functions.py
+python high_order_functions.py
+pwd
+touch filtrando_datos.py
+git status
+deactivate
+cd ..
+pwd
+git status
+git add .
+git commit -m "filter,map,reduce"
+git pull origin master
+git push origin master
+git status
+celar
+clear
+pwd
+pwd
+sudo pat-get update
+sudo apt-get update
+sudo apt-get upgrade
+code .
+source /punto_files/.bashrc
+ls -al
+source ~/punto_files/.bashrc
+all
+cd ..
+pwd
+cd lrb96/curso_python_intermedio/
+avenv
+all
+clear
+git status
+clear
+touch filtrando_datos.py
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+clear
+python filtrando_datos.py
+py -v
+python -v
+python filtrando_datos.py
+sudo apt-get update
+sudo apt-get upgrade
+python filtrando_datos.py
+clear
+deactivate
+cd ..
+pwd

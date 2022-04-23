@@ -1,0 +1,48 @@
+[2022-04-23 16:11:46.918] [remoteagent] [info] Extension host agent started.
+[2022-04-23 16:11:47.203] [remoteagent] [info] [127.0.0.1][3baa46fd][ManagementConnection] New connection established.
+[2022-04-23 16:11:47.326] [remoteagent] [info] [127.0.0.1][d7afd7fd][ExtensionHostConnection] New connection established.
+[2022-04-23 16:11:47.341] [remoteagent] [info] [127.0.0.1][d7afd7fd][ExtensionHostConnection] <442> Launched Extension Host Process.
+[2022-04-23 17:28:23.280] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-04-23 17:28:23.335] [remoteagent] [info] Installing extension: ms-python.python
+[2022-04-23 17:28:23.808] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-04-23 17:28:24.086] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-04-23 17:28:24.141] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-04-23 17:28:24.216] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-04-23 17:28:24.308] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-04-23 17:28:24.309] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-04-23 17:28:24.309] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-04-23 17:28:24.309] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-04-23 17:28:26.983] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-04-23 17:28:27.010] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.7e34fb63-e861-4e0b-ba6b-7c3a5036f11a: ms-toolsai.jupyter-keymap
+[2022-04-23 17:28:27.015] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-04-23 17:28:27.018] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-04-23 17:28:27.166] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.6
+[2022-04-23 17:28:27.395] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.af43764d-957f-40de-8809-316208372ffc: ms-toolsai.jupyter-renderers
+[2022-04-23 17:28:27.398] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-04-23 17:28:27.399] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-04-23 17:28:28.288] [remoteagent] [info] Downloaded extension: ms-python.python /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.4.1
+[2022-04-23 17:28:28.920] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.3.1000901801
+[2022-04-23 17:28:29.786] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.03be0642-c310-446b-814f-4179f5d2a4b2: ms-toolsai.jupyter
+[2022-04-23 17:28:29.798] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.3.1000901801
+[2022-04-23 17:28:29.804] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-04-23 17:28:30.885] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.362d822c-4587-486f-abf5-685c2c9c68e2: ms-python.python
+[2022-04-23 17:28:30.898] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.python-2022.4.1
+[2022-04-23 17:28:30.900] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-04-23 17:28:32.152] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.4.2
+[2022-04-23 17:28:35.395] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.7cd8c420-a61f-49ec-b2dd-53bd1f0454b2: ms-python.vscode-pylance
+[2022-04-23 17:28:35.411] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.2
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-04-23 17:28:35.413] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-04-23 17:28:42.587] [remoteagent] [info] Getting Manifest... dongli.python-preview
+[2022-04-23 17:28:42.719] [remoteagent] [info] Installing extension: dongli.python-preview
+[2022-04-23 17:28:44.507] [remoteagent] [info] Downloaded extension: dongli.python-preview /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/dongli.python-preview-0.0.4
+[2022-04-23 17:28:44.590] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.3f9e9f78-8c2b-416b-a024-daf6e45698ae: dongli.python-preview
+[2022-04-23 17:28:44.594] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/dongli.python-preview-0.0.4
+[2022-04-23 17:28:44.595] [remoteagent] [info] Extracting completed. dongli.python-preview
+[2022-04-23 17:28:44.596] [remoteagent] [info] Extension installed successfully: dongli.python-preview
+[2022-04-23 17:30:14.438] [remoteagent] [info] [127.0.0.1][3baa46fd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-23 17:30:14.484] [remoteagent] [info] [127.0.0.1][d7afd7fd][ExtensionHostConnection] <442> Extension Host Process exited with code: 0, signal: null.
