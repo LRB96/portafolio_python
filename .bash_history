@@ -418,3 +418,23 @@ git push origin master
 git ststus
 git status
 clear
+source ~/punto_files/.bashrc
+all
+explorer.exe .
+all
+rm -r proyecto_ejemplo/
+cd curso_python_intermedio/
+avenv
+deactivate
+cd ..
+all
+git status
+git add .
+git commit -m "commit_del_dia"
+git pull origin master
+git push origin master
+sudo apt get update
+sudo apt-get update
+sudo apt-get upgrade
+git status
+clear
