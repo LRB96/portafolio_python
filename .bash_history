@@ -388,3 +388,33 @@ python filtrando_datos.py
 decativate
 deactivate
 /bin/python3.9 /home/lrb96/curso_python_intermedio/filtrando_datos.py
+cd curso_python_intermedio/
+cd ..
+~/punto_files/.bashrc
+~/punto_files/.bashrc
+sudo ~/punto_files/.bashrc
+source ~/punto_files/.bashrc
+all
+cd curso_python_intermedio/
+avenv
+deactivate
+python --version
+python3 --version
+python3.9 --version
+pwd
+python filtrando_datos.py
+python3.9 filtrando_datos.py
+avenv
+python3.9 filtrando_datos.py
+clear
+deactivate
+cd..
+cd ..
+git status
+git add .
+git commit -m "filtrado_de_datos.py sin ejercicio_final"
+git pull origin master
+git push origin master
+git ststus
+git status
+clear

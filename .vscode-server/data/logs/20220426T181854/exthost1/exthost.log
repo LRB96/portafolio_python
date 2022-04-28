@@ -1,0 +1,16 @@
+[2022-04-26 18:18:55.940] [exthost] [info] Extension host with pid 90 started
+[2022-04-26 18:18:55.959] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/05ab06ea14554d20649d19e18ffdc1fb/vscode.lock': Lock acquired.
+[2022-04-26 18:18:56.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-26 18:18:56.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-26 18:18:56.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-26 18:18:56.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-26 18:18:56.135] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-26 18:18:56.189] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 18:18:56.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 18:18:56.214] [exthost] [info] Eager extensions activated
+[2022-04-26 18:18:57.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-26 18:18:57.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-26 18:18:57.563] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-26 18:19:20.138] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-04-26 18:19:20.138] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/05ab06ea14554d20649d19e18ffdc1fb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-04-26 18:19:20.154] [exthost] [info] Extension host with pid 90 exiting with code 0

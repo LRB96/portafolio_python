@@ -11,3 +11,10 @@ Info 17:45:39: Process Execution: > ~/curso_python_intermedio/venv/bin/python -m
 Info 17:54:48: Getting activation commands for /bin/python3.9 are not cached. May take a while.
 Info 17:54:48: Process Execution: > /bin/python3.9 -m pip list
 > /bin/python3.9 -m pip list
+Info 18:27:39: Shutting down notebooks for 1ca77607-1972-4a93-ae5a-29b70b5bc2bd
+Info 18:27:39: Disposing HostJupyterExecution 5cf0595d-858b-45a2-af71-4b2f23283ed1
+Info 18:27:39: Disposing super HostJupyterExecution 5cf0595d-858b-45a2-af71-4b2f23283ed1
+Info 18:27:39: Disposing HostJupyterExecution 5cf0595d-858b-45a2-af71-4b2f23283ed1
+Info 18:27:39: Finished disposing HostJupyterExecution  5cf0595d-858b-45a2-af71-4b2f23283ed1
+Info 18:27:39: Cleaning up server cache 5cf0595d-858b-45a2-af71-4b2f23283ed1
+Info 18:27:39: Finished disposing HostJupyterExecution  5cf0595d-858b-45a2-af71-4b2f23283ed1
