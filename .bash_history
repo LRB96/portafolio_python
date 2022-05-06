@@ -1,15 +1,3 @@
-ls
-rm -r proyecto_ejemplo/
-ls -al
-sudo apt-get install python3-venv
-sudo apt install python-pip
-sudo apt install python3-pip
-ls al
-ls -al
-pip install virtualenv
-mkdir proyecto_ejemplo
-cd proyecto_ejemplo/
-pwd
 python3 -m venv venv
 ls venv
 cd ..
@@ -498,3 +486,15 @@ python fibonacci.py
 python fibonacci.py 
 python3 fibonacci.py 
 deactivate
+source ~/punto_files/.bashrc
+all
+cd curso_python_intermedio/
+all
+cd ..
+explorer.exe .
+pwd
+git status
+git add .
+git commit -m "commit_practica_python"
+git pull origin master
+git push origin master

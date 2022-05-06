@@ -1,0 +1,11 @@
+[2022-05-06 18:23:43.957] [remoteagent] [info] Extension host agent started.
+[2022-05-06 18:23:44.117] [remoteagent] [info] [127.0.0.1][de99c9c9][ManagementConnection] New connection established.
+[2022-05-06 18:23:44.203] [remoteagent] [info] [127.0.0.1][b891c0cb][ExtensionHostConnection] New connection established.
+[2022-05-06 18:23:44.227] [remoteagent] [info] [127.0.0.1][b891c0cb][ExtensionHostConnection] <135> Launched Extension Host Process.
+[2022-05-06 18:23:46.750] [remoteagent] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-05-06 18:23:46.791] [remoteagent] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-05-06 18:23:48.752] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-companion /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.18
+[2022-05-06 18:23:48.785] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.69c3c2e6-4b2d-40b5-907c-2de3eb60c183: ms-vscode.js-debug-companion
+[2022-05-06 18:23:48.791] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-vscode.js-debug-companion-1.0.18
+[2022-05-06 18:23:48.793] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-05-06 18:23:48.803] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-companion
