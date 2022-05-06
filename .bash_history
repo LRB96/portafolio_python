@@ -1,34 +1,3 @@
-explorer.exe .
-git status
-code .
-git log
-pwd
-mkdir proyecto_ejemplo
-cd proyecto_ejemplo/
-pwd
-python3
-py
-python3 -m venv venv
-ls -al
-ls venv
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install python3.8-venv
-ls venv
-cd ..
-pwd
-rm -r proyecto_ejemplo/
-mkdir proyecto_ejemplo
-cd proyecto_ejemplo/
-pwd
-python3 -m venv venv
-ls venv
-sudo apt-get install python3-venv
-ls -al
-vim ~/.bashrc
-cd ..
-pwd
-ls -al
 ls
 rm -r proyecto_ejemplo/
 ls -al
@@ -438,3 +407,94 @@ sudo apt-get update
 sudo apt-get upgrade
 git status
 clear
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+/home/lrb96/curso_poo_algoritmos_python/venv/bin/python
+source ~/punto_files/.bashrc
+all
+explorer.exe .
+cd curso_poo_algoritmos_python/
+avenv
+python3.9 -m venv venv
+python3 -m venv venv
+all
+avenv
+source venv/bin/activate
+clear
+cd ..
+cd curso_python_intermedio/
+avenv
+deactivate
+cd ..
+cd curso_poo_algoritmos_python/
+avenv
+source venv/bin/activate
+all
+rm -r venv
+all
+clear
+sudo apt install python-pip
+pip install virtaulenv
+sudo apt-get install python3-venv
+python3 -m venv venv
+avenv
+deactivate
+cd ..
+all
+cd curso_poo_algoritmos_python/
+avenv
+deactivate
+cd ..
+pwd
+clear
+git status
+git add .
+git commit -m "carpeta_poo_python"
+git pull origin master
+git push origin master
+clear
+cd curso_poo
+cd curso_poo_algoritmos_python/
+avenv
+code .
+python instancias.py
+python3 instancias.py
+python3.9 instancias.py
+clear
+python instancias.py
+clear
+touch herencia.py
+python herencia.py
+clear
+python herencia.py
+clear
+python herencia.py
+git add .
+deactivate
+cd ..
+all
+git status
+git add .
+git log
+clear
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
+source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
+/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
+cd curso_poo_algoritmos_python/
+python fibonacci.py 
+source /venv/bin/activate
+source venv/bin/activate
+python fibonacci.py 
+python fibonacci.py 
+python fibonacci.py 
+clear
+python fibonacci.py 
+python fibonacci.py 
+python3 fibonacci.py 
+deactivate

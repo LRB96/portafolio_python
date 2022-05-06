@@ -1,0 +1,19 @@
+[Info  - 4:43:35 PM] (155) Pylance language server 2022.4.3 (pyright 88f2a424) starting
+[Info  - 4:43:35 PM] (155) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 4:43:35 PM] (155) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 4:43:35 PM] (155) Background analysis(1) started
+[Info  - 4:43:35 PM] (155) No configuration file found.
+[Info  - 4:43:35 PM] (155) No pyproject.toml file found.
+[Info  - 4:43:35 PM] (155) Setting pythonPath for service "curso_poo_algoritmos_python": "/home/lrb96/curso_poo_algoritmos_python/venv/bin/python"
+[Warn  - 4:43:35 PM] (155) stubPath /home/lrb96/curso_poo_algoritmos_python/typings is not a valid directory.
+[Info  - 4:43:35 PM] (155) Assuming Python version 3.8
+[Info  - 4:43:35 PM] (155) Assuming Python platform Linux
+[Info  - 4:43:35 PM] (155) Searching for source files
+[Info  - 4:43:35 PM] (155) Auto-excluding /home/lrb96/curso_poo_algoritmos_python/venv
+[Info  - 4:43:35 PM] (155) Found 2 source files
+[Info  - 4:43:35 PM] (155) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.4.3/dist (index)
+[Info  - 4:43:35 PM] (155) Indexing(2) started
+[Info  - 4:43:36 PM] (155) Indexer done(2). indexed 426 files
+[Info  - 4:43:46 PM] (155) Searching for source files
+[Info  - 4:43:46 PM] (155) Auto-excluding /home/lrb96/curso_poo_algoritmos_python/venv
+[Info  - 4:43:46 PM] (155) Found 3 source files

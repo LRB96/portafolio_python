@@ -10,3 +10,10 @@ Info 16:16:36: Getting activation commands for /home/lrb96/curso_poo_algoritmos_
 Info 16:16:37: Activation Commands received source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate for shell bash
 Info 16:16:37: Process Execution: > ~/curso_poo_algoritmos_python/venv/bin/python -m pip list
 > ~/curso_poo_algoritmos_python/venv/bin/python -m pip list
+Info 20:17:30: Shutting down notebooks for 4dfbcab7-4ee6-4c43-8e5d-ff87d3fb1905
+Info 20:17:30: Disposing HostJupyterExecution 3f0853a9-4a5c-489b-ac75-07be6bec2f84
+Info 20:17:30: Disposing super HostJupyterExecution 3f0853a9-4a5c-489b-ac75-07be6bec2f84
+Info 20:17:30: Disposing HostJupyterExecution 3f0853a9-4a5c-489b-ac75-07be6bec2f84
+Info 20:17:30: Finished disposing HostJupyterExecution  3f0853a9-4a5c-489b-ac75-07be6bec2f84
+Info 20:17:30: Cleaning up server cache 3f0853a9-4a5c-489b-ac75-07be6bec2f84
+Info 20:17:30: Finished disposing HostJupyterExecution  3f0853a9-4a5c-489b-ac75-07be6bec2f84

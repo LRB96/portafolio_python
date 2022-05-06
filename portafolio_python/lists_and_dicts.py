@@ -1,29 +1,26 @@
 def run():
-    my_list = [1, "hello", True, 4.5]
-    my_dict = {"fistname": "luis", "lastname": "rojas"}
-    
-    super_list = [
-        {"firstname": "luis", "lastname": "rojas"},
-        {"firstname": "andres", "lastname": "gomez"},
-        {"firstname": "manuel", "lastname": "diaz"},
-        {"firstname": "francesca", "lastname": "buovino"}
+
+    my_list = [1, "hello", 4.5, True]
+    my_dist = {"firstname": "Luis", "lastname": "Rojas"}
+
+    my_super_list = [
+        {"firstname": "Luis", "lastname": "Rojas"},
+        {"firstname": "Felipe", "lastname": "Andrade"},
+        {"firstname": "Andres", "lastname": "Gomez"},
+        {"firstname": "Otto", "lastname": "Bismark"}
     ]
-    
-    # print(super_list)
-    
-    for i in super_list:
-        print(i.items())
-    
-    super_dict = {
-        "natural_nums": [1,2,3,4,5],
-        "integer_nums": [-1,-2,0,1,2],
-        "floating_nums": [1.5,3.6,4.8]
+
+    my_super_dict = {
+        "natural_numbers": [1,2,3,4,5],
+        "integer_nums": [-2,-1,0,1,2],
+        "floating_nums": [1.3,1.5,6.7,7.8]
     }
-    
-    for key, value in super_dict.items():
-        print(key, "", value)
 
+    for key, value in my_super_dict.items():
+        print(key, "-", value)
 
+    for n in my_super_list:
+        print(n)
 
 if __name__ == "__main__":
     run()
