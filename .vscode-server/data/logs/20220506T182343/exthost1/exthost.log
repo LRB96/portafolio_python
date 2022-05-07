@@ -15,3 +15,6 @@
 [2022-05-06 18:25:53.520] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
 [2022-05-06 18:25:54.030] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
 [2022-05-06 18:25:54.123] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-06 18:45:28.879] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-05-06 18:45:28.880] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/9d781c065241cc6485d8434a545572eb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-05-06 18:45:28.925] [exthost] [info] Extension host with pid 135 exiting with code 0

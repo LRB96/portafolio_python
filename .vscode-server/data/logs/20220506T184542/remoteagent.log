@@ -1,0 +1,26 @@
+[2022-05-06 18:45:42.555] [remoteagent] [info] Extension host agent started.
+[2022-05-06 18:45:42.756] [remoteagent] [info] [127.0.0.1][b8e26f3d][ManagementConnection] New connection established.
+[2022-05-06 18:45:42.964] [remoteagent] [info] [127.0.0.1][3ef30fe4][ExtensionHostConnection] New connection established.
+[2022-05-06 18:45:42.974] [remoteagent] [info] [127.0.0.1][3ef30fe4][ExtensionHostConnection] <1092> Launched Extension Host Process.
+[2022-05-06 18:45:45.754] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:45.754] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-05-06 18:45:45.754] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-05-06 18:45:45.792] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:45.806] [remoteagent] [info] Installing extension: ms-python.python
+[2022-05-06 18:45:45.832] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-05-06 18:45:49.807] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.67.2
+[2022-05-06 18:45:50.048] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.8bc74b96-aa82-4c9c-9c01-f1275b043ed0: ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:50.058] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.67.2
+[2022-05-06 18:45:50.060] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:50.060] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:50.150] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-05-06 18:45:50.627] [remoteagent] [info] Downloaded extension: ms-python.python /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.6.0
+[2022-05-06 18:45:50.631] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-06 18:45:52.016] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.395c132e-90ed-42fc-9248-cfd011982fc6: ms-toolsai.jupyter
+[2022-05-06 18:45:52.030] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.4.1011282140
+[2022-05-06 18:45:52.039] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-05-06 18:45:52.046] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-05-06 18:45:53.722] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.bb4bebab-5fe2-4985-849b-f0df3a0ac27c: ms-python.python
+[2022-05-06 18:45:53.741] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.python-2022.6.0
+[2022-05-06 18:45:53.745] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-05-06 18:45:53.750] [remoteagent] [info] Extension installed successfully: ms-python.python
