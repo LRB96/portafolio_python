@@ -11,7 +11,7 @@
 #un elemento en cada iteración del total de 15.
 #Se agrega cada uno de esos 15 caracteres con .append(caracter_random) en la lista vacia de la varaible "contrasena"
 #Para converitir la lista de los 15 caracteres a un string, se usa .join(contrasena). Esto por que hay que recordar que contrasena es una lista.
-#Por último, Return contrasena, para se guarde en la variable contrasena de la función run, y se muestre con print("Tu nueva contraseña es " + contraasena)
+#Por último, Return contrasena, para se guarde en la variable contrasena de la función run 
 
 import random
 

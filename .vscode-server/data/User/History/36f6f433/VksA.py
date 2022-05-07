@@ -8,9 +8,7 @@
 #Después se convierten todos los elementos en miniscula, con .lower()
 #Se le da vuelta con [::-1], para que se verifique que es un palindromo}. Todo esto en una variable: palabra_invertida
 #if palabra_invertida == palabra:
-#     retrun True
-#Else:
-#    return False
+#     
 
 
 

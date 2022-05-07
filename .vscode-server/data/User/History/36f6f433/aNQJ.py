@@ -6,11 +6,8 @@
 #Creo una condición: if es_palindromo == true print("Es palindromo"), else: print("No es palindromo")
 #En la función palindromo el parámetro palabra es una variable a la cual se le quitan los espacios vacios con .replace(" ", "")
 #Después se convierten todos los elementos en miniscula, con .lower()
-#Se le da vuelta con [::-1], para que se verifique que es un palindromo}. Todo esto en una variable: palabra_invertida
-#if palabra_invertida == palabra:
-#     retrun True
-#Else:
-#    return False
+#Se le da vuelta con [::-1], para que se verifique que es un palindromo.
+#
 
 
 

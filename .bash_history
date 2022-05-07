@@ -1,29 +1,3 @@
-python3 -m venv venv
-ls venv
-cd ..
-pwd
-rm -r proyecto_ejemplo/
-sudo apt-get install python3-venv
-mkdir proyecto_ejemplo
-cd proyec
-cd proyecto_ejemplo/
-ls -al
-python3 -m venv venv
-source venv/bin/activate
-deactivate
-pwd
-ls venv
-source venv/bin/acitvate
-pwd
-source venv/bin/activate
-deactivate
-source venv/bin/activate
-alias avenv = "source venv/bin/activate"
-alias avenv="source venv/bin/activate"
-deactivate
-cd ..
-pwd
-ls -al
 cd proyecto_ejemplo/
 ls -al
 cd ..
@@ -498,3 +472,29 @@ git add .
 git commit -m "commit_practica_python"
 git pull origin master
 git push origin master
+source ~/punto_files/.bashrc
+all
+cd curso_python_intermedio/
+all
+cd ..
+cd portafolio_python/
+all
+code .
+python aleatorio.py
+python3 aleatorio.py
+explorer.exe .
+cd ..
+pwd
+sudo apt-get update
+sudo apt-get upgrade
+all
+cd portafolio_python/
+python alea
+python aleatorio.py 
+python3 aleatorio.py 
+python aleatorio.py 
+py aleatorio.py 
+python3 aleatorio.py 
+python3 conversor.py
+cd ..
+git status

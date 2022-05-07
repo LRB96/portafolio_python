@@ -1,0 +1,6 @@
+[2022-05-06 21:55:20.541] [remoteagent] [info] Extension host agent started.
+[2022-05-06 21:55:20.680] [remoteagent] [info] [127.0.0.1][c8414582][ManagementConnection] New connection established.
+[2022-05-06 21:55:20.816] [remoteagent] [info] [127.0.0.1][bcaf1e09][ExtensionHostConnection] New connection established.
+[2022-05-06 21:55:20.941] [remoteagent] [info] [127.0.0.1][bcaf1e09][ExtensionHostConnection] <129> Launched Extension Host Process.
+[2022-05-06 21:55:21.097] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.3.1000901801
+[2022-05-06 21:55:21.277] [remoteagent] [info] Deleted from disk ms-python.python /home/lrb96/.vscode-server/extensions/ms-python.python-2022.4.1
