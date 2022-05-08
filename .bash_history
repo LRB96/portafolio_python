@@ -1,10 +1,3 @@
-cd proyecto_ejemplo/
-ls -al
-cd ..
-pwd
-ls -al
-~/,bashrc
-vim ~/,bashrc
 ~/.bashrc
 pwd
 ls -al
@@ -496,5 +489,12 @@ python aleatorio.py
 py aleatorio.py 
 python3 aleatorio.py 
 python3 conversor.py
+cd ..
+git status
+source ~/punto_files/.bashrc
+cd portafolio_python/
+code .
+python3 password_generator.py
+pwd
 cd ..
 git status
