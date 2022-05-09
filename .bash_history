@@ -1,26 +1,3 @@
-~/.bashrc
-pwd
-ls -al
-cd ..
-ls -al
-cd lrb96
-pwd
-ls -al
-explorer.exe .
-vim ~/punto_files/.bashrc
-source ~/punto_files/.bashrc
-all
-avenv
-all
-pwd
-cd proyecto_ejemplo
-avenv
-deactivate
-all
-avenv
-deactivate
-cd ..
-pwd
 all
 git status
 git add .
@@ -498,3 +475,32 @@ python3 password_generator.py
 pwd
 cd ..
 git status
+source ~/punto_files/.bashrc
+cd por
+cd portafolio_python/
+venv
+python3 -m venv venv
+venv
+all
+source venv/bin/activate
+venv
+all
+avenv
+deactivate
+avenv
+code .
+python aleatorio.py
+python conversor.py 
+python palindromo.py
+anna
+python palindromo.py
+python password_generator.py
+deactivate
+cd ..
+git status
+source ~/pun
+source ~/punto_files/.bashrc
+cd portafolio_python/
+avenv
+code .
+python3 fibo.py
