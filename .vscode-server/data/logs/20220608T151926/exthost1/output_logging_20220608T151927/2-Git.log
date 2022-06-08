@@ -604,3 +604,11 @@
 [2022-06-08T23:57:48.341Z] > git remote --verbose [1ms]
 [2022-06-08T23:57:48.341Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
 [2022-06-08T23:57:48.450Z] > git config --get commit.template [15ms]
+[2022-06-08T23:59:02.913Z] > git ls-files --stage -- /home/lrb96/curso_profesional_python/decorators.py [3ms]
+[2022-06-08T23:59:02.918Z] > git cat-file -s f49439828ecbbcc9bb2a36c355337e5bd565bfa7 [1ms]
+[2022-06-08T23:59:02.929Z] > git show --textconv :curso_profesional_python/decorators.py [3ms]
+[2022-06-08T23:59:05.666Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-08T23:59:05.666Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-08T23:59:06.181Z] > git check-ignore -v -z --stdin [11ms]
+[2022-06-08T23:59:28.779Z] > git check-ignore -v -z --stdin [15ms]
+[2022-06-08T23:59:30.295Z] > git check-ignore -v -z --stdin [10ms]
