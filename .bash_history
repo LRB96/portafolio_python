@@ -1,14 +1,3 @@
-all
-git status
-git add .
-git commit -m "mas carpetas ."
-git pull origin master
-git push origin master
-git status
-pip freeze
-pwd
-all
-cd proyecto_ejemplo/
 avenv
 pip freeze
 deactivate
@@ -504,3 +493,8 @@ cd portafolio_python/
 avenv
 code .
 python3 fibo.py
+pwd
+explorer.exe .
+cd ~
+pwd
+explorer.exe .

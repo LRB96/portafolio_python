@@ -9,3 +9,10 @@ info 15:23:52.585: Experiment status for python is {"enabled":true,"optInto":[],
 info 15:23:52.767: Activation Commands received source /home/lrb96/portafolio_python/venv/bin/activate for shell bash
 info 15:23:52.799: Process Execution: > ~/portafolio_python/venv/bin/python -m pip list
 > ~/portafolio_python/venv/bin/python -m pip list
+info 17:17:12.658: Shutting down notebooks for e79db2b9-cd35-4719-826f-c26f048fe3f3
+info 17:17:12.658: Disposing HostJupyterExecution 056d464a-4992-4f7b-b535-312b3c295574
+info 17:17:12.658: Disposing super HostJupyterExecution 056d464a-4992-4f7b-b535-312b3c295574
+info 17:17:12.659: Disposing HostJupyterExecution 056d464a-4992-4f7b-b535-312b3c295574
+info 17:17:12.659: Finished disposing HostJupyterExecution  056d464a-4992-4f7b-b535-312b3c295574
+info 17:17:12.664: Cleaning up server cache 056d464a-4992-4f7b-b535-312b3c295574
+info 17:17:12.665: Finished disposing HostJupyterExecution  056d464a-4992-4f7b-b535-312b3c295574
