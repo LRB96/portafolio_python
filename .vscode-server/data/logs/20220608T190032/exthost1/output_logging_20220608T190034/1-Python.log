@@ -1,0 +1,12 @@
+Experiment 'pythonaacf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+> conda info --json
+> ./lrb96/curso_python_intermedio/venv/bin/python ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/get_output_via_markers.py ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/interpreterInfo.py
+Python interpreter path: ./lrb96/curso_python_intermedio/venv/bin/python
+> . ./lrb96/curso_python_intermedio/venv/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/printEnvVariables.py
+> /bin/python3 ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/get_output_via_markers.py ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/interpreterInfo.py
+> /bin/python3.9 ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/get_output_via_markers.py ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/get_output_via_markers.py ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/interpreterInfo.py
+> /usr/bin/python3.9 ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/get_output_via_markers.py ./lrb96/.vscode-server/extensions/ms-python.python-2022.6.3/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

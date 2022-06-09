@@ -1,9 +1,0 @@
-[2022-04-26T23:18:56.154Z] Validating found git in: git
-[2022-04-26T23:18:56.181Z] Using git 2.25.1 from git
-[2022-04-26T23:18:56.235Z] > git rev-parse --git-dir [14ms]
-[2022-04-26T23:18:56.240Z] Open repository: /home/lrb96
-[2022-04-26T23:18:56.468Z] > git symbolic-ref --short HEAD [1ms]
-[2022-04-26T23:18:56.473Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
-[2022-04-26T23:18:56.479Z] > git remote --verbose [1ms]
-[2022-04-26T23:18:56.480Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
-[2022-04-26T23:18:56.487Z] > git config --get commit.template [1ms]
