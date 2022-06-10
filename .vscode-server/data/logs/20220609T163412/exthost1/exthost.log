@@ -30,3 +30,4 @@
 [2022-06-09 19:01:08.052] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
 [2022-06-09 19:01:08.052] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
 [2022-06-09 19:01:16.139] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-09 19:05:53.478] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
