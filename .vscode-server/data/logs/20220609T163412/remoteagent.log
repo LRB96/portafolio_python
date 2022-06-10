@@ -22,3 +22,5 @@
 [2022-06-09 16:34:21.250] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
 [2022-06-09 17:39:49.667] [remoteagent] [info] [127.0.0.1][64e21f9a][ExtensionHostConnection] The client has reconnected.
 [2022-06-09 17:40:44.418] [remoteagent] [info] [127.0.0.1][3599fb75][ManagementConnection] The client has reconnected.
+[2022-06-09 19:11:24.140] [remoteagent] [info] [127.0.0.1][3599fb75][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-09 19:11:24.195] [remoteagent] [info] [127.0.0.1][64e21f9a][ExtensionHostConnection] <6744> Extension Host Process exited with code: 0, signal: null.

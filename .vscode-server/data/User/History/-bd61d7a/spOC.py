@@ -13,13 +13,13 @@ def execution_time(func):
 def run():
     for _ in range(1, 1000):
         pass
-
+    print("sdfds")
 
 @execution_time
 def suma(a: int, b: int) -> int:
     return a + b
 
-print(suma(5,5))
+suma(5,5)
 
 
 # def bohemian(func):

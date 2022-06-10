@@ -1,45 +1,3 @@
-python3 -m venv venv
-avenv
-deactivate
-all
-code .
-avenv
-touch lists_and_dicts.py
-all
-python3 lists_and_dicts.py
-touch lists_comprehensions.py
-python3 lists_comprehensions.py
-source ~/punt
-source ~/punto_files/.bashrc
-all
-cd curso_python_intermedio/
-avenv
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-touch dictionary_comprehensions.py
-python3 dictionary_comprehensions.py
-clear
-python3 dictionary_comprehensions.py
-clear
-python3 dictionary_comprehensions.py
-cd ..
-deactivate
 pwd
 git status
 git add .
@@ -498,3 +456,45 @@ git log
 git status
 source /home/lrb96/curso_profesional_python/venv/bin/activate
 /home/lrb96/curso_profesional_python/venv/bin/python
+source ~/punto_files/.bashrc
+all
+cd curso_profesional_python/
+avenv
+code .
+python3 decorators.py
+clear
+python3 decorators.py
+clear
+python3 decorators.py
+touch iterators.py
+touch generators.py
+python3 generators.py
+lclear
+clear
+python3 generators.py
+explorer.exe .
+python3 generators.py
+celar
+clear
+deactivate
+cd ..
+pwd
+git status
+git add .
+git commit -m "Decorators, Iterators, Generators"
+git pull origin master
+git push origin master
+git status
+git pull origin master
+git push origin master
+cd curso_profesional_python/
+python3 generators.py
+cd ..
+sudo apt-get update
+sudo apt-get upgrade
+pwd
+~/punto_files/.bashrc
+~
+cd lrb96
+pwd
+cd lrb96

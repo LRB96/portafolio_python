@@ -1,0 +1,17 @@
+[Info  - 2:33:00 PM] (226) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 2:33:00 PM] (226) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 2:33:00 PM] (226) No configuration file found.
+[Info  - 2:33:00 PM] (226) No pyproject.toml file found.
+[Info  - 2:33:00 PM] (226) Setting pythonPath for service "curso_profesional_python": "/home/lrb96/curso_profesional_python/venv/bin/python"
+[Warn  - 2:33:00 PM] (226) stubPath /home/lrb96/curso_profesional_python/typings is not a valid directory.
+[Info  - 2:33:00 PM] (226) Assuming Python version 3.8
+[Info  - 2:33:00 PM] (226) Assuming Python platform Linux
+[Info  - 2:33:00 PM] (226) Searching for source files
+[Info  - 2:33:00 PM] (226) Auto-excluding /home/lrb96/curso_profesional_python/venv
+[Info  - 2:33:00 PM] (226) Found 7 source files
+[Info  - 2:33:01 PM] (226) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 2:33:01 PM] (226) Background analysis(1) started
+[Info  - 2:33:01 PM] (226) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 2:33:01 PM] (226) Indexing(2) started
+[Info  - 2:33:01 PM] (226) Indexer done(2). indexed 426 files
