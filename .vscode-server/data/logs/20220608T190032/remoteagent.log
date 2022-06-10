@@ -115,3 +115,5 @@
 [2022-06-08 19:00:44.080] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10
 [2022-06-08 19:00:44.082] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
 [2022-06-08 19:00:44.086] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-08 19:02:36.360] [remoteagent] [info] [127.0.0.1][a3c951e3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-08 19:02:36.396] [remoteagent] [info] [127.0.0.1][3a4958f7][ExtensionHostConnection] <2097> Extension Host Process exited with code: 0, signal: null.

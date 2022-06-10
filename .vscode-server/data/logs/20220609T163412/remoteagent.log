@@ -1,0 +1,24 @@
+[2022-06-09 16:34:12.587] [remoteagent] [info] Extension host agent started.
+[2022-06-09 16:34:12.976] [remoteagent] [info] [127.0.0.1][3599fb75][ManagementConnection] New connection established.
+[2022-06-09 16:34:13.028] [remoteagent] [info] [127.0.0.1][64e21f9a][ExtensionHostConnection] New connection established.
+[2022-06-09 16:34:13.111] [remoteagent] [info] [127.0.0.1][64e21f9a][ExtensionHostConnection] <6744> Launched Extension Host Process.
+[2022-06-09 16:34:13.162] [remoteagent] [info] Deleted from disk ms-python.python /home/lrb96/.vscode-server/extensions/ms-python.python-2022.6.3
+[2022-06-09 16:34:16.387] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:16.388] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:16.388] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-09 16:34:16.440] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:16.442] [remoteagent] [info] Extensions is already requested to install ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:16.491] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-09 16:34:18.994] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-es /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-es-1.68.2
+[2022-06-09 16:34:19.165] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.7f52f954-c671-4858-99ad-c6215c2d64fc: ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:19.171] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.68.2
+[2022-06-09 16:34:19.172] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:19.176] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:19.222] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-06-09 16:34:20.600] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/lrb96/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-09 16:34:21.235] [remoteagent] [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.d07d3c77-69b3-44a5-a405-d8ac42c54853: ms-toolsai.jupyter
+[2022-06-09 16:34:21.241] [remoteagent] [info] Renamed to /home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2022.5.1001601848
+[2022-06-09 16:34:21.248] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-09 16:34:21.250] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-09 17:39:49.667] [remoteagent] [info] [127.0.0.1][64e21f9a][ExtensionHostConnection] The client has reconnected.
+[2022-06-09 17:40:44.418] [remoteagent] [info] [127.0.0.1][3599fb75][ManagementConnection] The client has reconnected.

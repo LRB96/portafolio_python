@@ -1,0 +1,18 @@
+Visual Studio Code (1.67.2, wsl, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.3.
+Workspace folder /home/lrb96/curso_profesional_python
+info 14:32:30.66: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 14:32:30.686: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 14:32:30.976: Activation Commands received source /home/lrb96/curso_profesional_python/venv/bin/activate for shell bash
+info 14:32:31.10: Process Execution: > ~/curso_profesional_python/venv/bin/python -m pip list
+> ~/curso_profesional_python/venv/bin/python -m pip list
+info 16:34:1.448: Shutting down notebooks for 378e4dd3-3eef-4f05-a052-42e7bb7982b2
+info 16:34:1.448: Disposing HostJupyterExecution 3268de82-9853-46f2-afc3-724703fc0616
+info 16:34:1.448: Disposing super HostJupyterExecution 3268de82-9853-46f2-afc3-724703fc0616
+info 16:34:1.449: Disposing HostJupyterExecution 3268de82-9853-46f2-afc3-724703fc0616
+info 16:34:1.449: Finished disposing HostJupyterExecution  3268de82-9853-46f2-afc3-724703fc0616
+info 16:34:1.453: Cleaning up server cache 3268de82-9853-46f2-afc3-724703fc0616
+info 16:34:1.453: Finished disposing HostJupyterExecution  3268de82-9853-46f2-afc3-724703fc0616

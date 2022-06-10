@@ -1,65 +1,3 @@
-avenv
-pip freeze
-deactivate
-cd ..
-pwd
-git status
-git add .
-git commit -m "venv creado"
-git status
-git pull origin master
-git push origin master
-git status
-explorer.exe .
-git status
-git add .
-git commit -m "commit del dia"
-git status
-git pull origin master
-git push origin master
-sudo apt-get update
-sudo apt-get upgrade
-all
-source punto_files/.bashrc
-all
-avenv
-cd punto_files
-avenv
-all
-cd ..
-cd proyecto_ejemplo/
-avenv
-deactivate
-cd ..
-pwd
-pwd
-sudo apt-get update
-sudo apt-get upgrade
-git status
-code .
-cd proyecto_ejemplo/
-avenv
-source .cd ..
-cd ..
-pwd
-source /punto_files/.bashrc
-source /punto_files/.bashrpwdc
-pwd
-source ~/punto_files/.bashrc
-avenv
-cd punto_files/
-avenv
-cd ..
-cd proyecto_ejemplo/
-avenv
-deactivate
-cd ..
-pwd
-mkdir cs_python_intermedio
-rm -r cs_python_intermedio/
-all
-mkdir curso_python_intermedio
-cd curso_python_intermedio/
 python3 -m venv venv
 avenv
 deactivate
@@ -498,3 +436,65 @@ explorer.exe .
 cd ~
 pwd
 explorer.exe .
+cd ~
+pwd
+ls -al
+cd punto_files
+ls -al
+ cd ..
+source punto_files/.bashrc
+all
+cd ..
+celar
+clear
+pwd
+code .
+all
+cd lrb96
+all
+mkdir curso_profesional_python
+pwd
+cd curso_profesional_python/
+python3 -m venv venv
+activate
+all
+activate
+avenv
+touch .gitignore
+cat .gitignore
+pip install mypy
+touch palindrome.py
+python3 palindrome.py
+mypy palindrome.py --check-untyped-defs
+touch prime_number.py
+python3 prime_number.py
+mypy prime_number.py --check-untyped-defs
+python3 prime_number.py
+python3 palindrome.py
+python3 prime_number.py
+touch closures.py
+python3 closures.py
+touch make_division_by.py
+python3 make_division_by.py
+touch make_division_by.py
+python3 make_division_by.py
+touch decorators.py
+py decorators.py
+python3 decorators.py
+mypy decorators.py --check-untyped-defs
+python3 decorators.py
+cd ..
+deactivate
+pwd
+git status
+git add .
+git commit -m "primeros_archivos_curso_profesional_ppython"
+git status
+git log
+git status
+git add .
+git status
+git log
+git status
+source /home/lrb96/curso_profesional_python/venv/bin/activate
+/home/lrb96/curso_profesional_python/venv/bin/python
