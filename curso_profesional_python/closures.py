@@ -10,4 +10,4 @@ def run():
     print(repeat_5("Plazti"))
 
 if __name__ == "__main__":
-    run()   
+    run()
