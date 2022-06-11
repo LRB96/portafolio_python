@@ -1,5 +1,3 @@
-pwd
-git status
 git add .
 git commit -m "lists_dicts_comprehensions"
 git pull origin master
@@ -498,3 +496,5 @@ pwd
 cd lrb96
 pwd
 cd lrb96
+source /home/lrb96/curso_profesional_python/venv/bin/activate
+/home/lrb96/curso_profesional_python/venv/bin/python

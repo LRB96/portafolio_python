@@ -9,3 +9,10 @@ info 14:32:59.475: LSP Notebooks experiment is disabled -- not in treatment grou
 info 14:32:59.635: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
 info 14:33:0.84: Process Execution: > ~/curso_profesional_python/venv/bin/python -m pip list
 > ~/curso_profesional_python/venv/bin/python -m pip list
+info 19:7:32.998: Shutting down notebooks for 6a4adca9-38ba-4e38-9ab8-504204af2c19
+info 19:7:32.998: Disposing HostJupyterExecution 27cf0c0f-3087-484c-9510-5e7e52122b1b
+info 19:7:32.998: Disposing super HostJupyterExecution 27cf0c0f-3087-484c-9510-5e7e52122b1b
+info 19:7:33.1: Disposing HostJupyterExecution 27cf0c0f-3087-484c-9510-5e7e52122b1b
+info 19:7:33.1: Finished disposing HostJupyterExecution  27cf0c0f-3087-484c-9510-5e7e52122b1b
+info 19:7:33.12: Cleaning up server cache 27cf0c0f-3087-484c-9510-5e7e52122b1b
+info 19:7:33.12: Finished disposing HostJupyterExecution  27cf0c0f-3087-484c-9510-5e7e52122b1b

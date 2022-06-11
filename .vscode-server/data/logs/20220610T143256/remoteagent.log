@@ -172,3 +172,8 @@
 [2022-06-10 14:33:02.222] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-es
 [2022-06-10 14:33:02.225] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
 [2022-06-10 14:33:02.267] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+[2022-06-10 16:17:23.751] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-10 16:34:43.971] [remoteagent] [info] [127.0.0.1][32a05437][ExtensionHostConnection] The client has reconnected.
+[2022-06-10 16:34:44.036] [remoteagent] [info] [127.0.0.1][4dff92a2][ManagementConnection] The client has reconnected.
+[2022-06-10 19:07:32.968] [remoteagent] [info] [127.0.0.1][4dff92a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-10 19:07:33.031] [remoteagent] [info] [127.0.0.1][32a05437][ExtensionHostConnection] <144> Extension Host Process exited with code: 0, signal: null.
