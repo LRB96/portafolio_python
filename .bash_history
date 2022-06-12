@@ -1,48 +1,3 @@
-git add .
-git commit -m "lists_dicts_comprehensions"
-git pull origin master
-git push origin master
-source ./punto_files/.bashrc
-all
-pwd
-cd curso_python_intermedio/
-avenv
-git status
-cd ..
-pwd
-deactivate
-pwd
-git status
-git add .
-git commit -m "mas archivos ."
-git status
-cd curso_python_intermedio/
-avenv
-git status
-python dictionary_comprehensions.py 
-python lists_comprehensions.py
-clear
-python3 lists_comprehensions.py
-clear
-code .
-python dictionary_comprehensions.py 
-clear
-python dictionary_comprehensions.py 
-clear
-python dictionary_comprehensions.py 
-clear
-python dictionary_comprehensions.py 
-clear
-python dictionary_comprehensions.py 
-clear
-touch high_order_functions.py
-python high_order_functions.py
-pwd
-touch filtrando_datos.py
-git status
-deactivate
-cd ..
-pwd
 git status
 git add .
 git commit -m "filter,map,reduce"
@@ -498,3 +453,48 @@ pwd
 cd lrb96
 source /home/lrb96/curso_profesional_python/venv/bin/activate
 /home/lrb96/curso_profesional_python/venv/bin/python
+cd ~/punto_files/.bashrc
+cd curso_profesional_python/
+source ~/punto_files/.bashrc
+all
+avenv
+code .
+python3 decorators.py
+deactivate
+cd ..
+git status
+git add .
+git commit-m "primer_commit_10/06/22"
+git commit -m "primer_commit_10/06/22"
+git status
+all
+cd curso_profesional_python/
+avenv
+python3 generators.py
+50
+python3 generators.py
+touch sets.py
+python3 sets.py
+pip install pytz
+touch timezones.py
+python3 timezones.py
+clear
+python3 timezones.py
+deactivate
+git status
+git add .
+git commit -m "curso_profesional_terminado"
+git pull origin master
+git push origin master
+git status
+git add .
+git commit -m "commit_10/06/22"
+git add .
+git commit -m "commit"
+cd ..
+git add .
+git log
+git commit -m "ultimo_commit_curso_profesional"
+git status
+git pull origin master
+git push origin master
