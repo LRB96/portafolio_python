@@ -1,0 +1,251 @@
+[2022-06-13 17:01:17.703] [exthost] [info] Extension host with pid 222 started
+[2022-06-13 17:01:17.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-13 17:01:17.742] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-13 17:01:17.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-13 17:01:17.766] [exthost] [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/0f336bda59d55d1ac49f76b7ed621b6f/vscode.lock': Lock acquired.
+[2022-06-13 17:01:17.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-13 17:01:17.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-13 17:01:17.952] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-13 17:01:17.973] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-13 17:01:17.978] [exthost] [info] Eager extensions activated
+[2022-06-13 17:01:18.245] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1019
+[2022-06-13 17:01:18.976] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-13 17:01:18.982] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-13 17:01:19.031] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-13 17:01:19.375] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1020
+[2022-06-13 17:01:20.909] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1020
+[2022-06-13 17:01:22.535] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-13 17:01:22.745] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-13 17:01:23.373] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-06-13 17:01:23.434] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-13 17:01:25.981] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1024
+[2022-06-13 17:01:31.052] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:01:36.122] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:01:41.193] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:01:46.261] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:25.077] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:30.559] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:36.823] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:41.889] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:47.033] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:52.095] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:02:57.156] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:03:02.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1025
+[2022-06-13 17:03:02.304] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:02.304] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:03.763] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:03.763] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:04.893] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:04.893] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:05.468] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:05.468] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:06.374] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:06.374] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:06.974] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:06.974] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:08.126] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:08.127] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:09.030] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:09.030] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:10.212] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:10.212] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:13.764] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:03:14.311] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:14.311] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:14.685] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:14.685] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:15.558] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:15.558] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:15.996] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:15.996] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:16.510] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:16.510] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:16.894] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:16.894] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:03:17.477] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:03:17.478] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:06:19.061] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:06:20.297] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:10:19.630] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:10:20.469] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:10:20.470] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:10:21.001] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:10:21.383] [exthost] [error] [ms-python.python] provider FAILED
+[2022-06-13 17:10:21.384] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129702)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:129651)
+	at new t (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:76:115213)
+	at G (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2273720)
+	at c (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310905)
+	at Object.t.map (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2310991)
+	at Object.asDocumentSymbols (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2281538)
+	at /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:2220083
+	at async o.provideDocumentSymbols (/home/lrb96/.vscode-server/bin/4af164ea3a06f701fe3e89a2bcbb421d2026b68f/out/vs/workbench/api/node/extensionHostProcess.js:83:129081)
+[2022-06-13 17:10:24.690] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1027
+[2022-06-13 17:10:29.754] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:10:34.814] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:10:40.096] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:10:45.155] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:10:50.215] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:10:55.277] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1028
+[2022-06-13 17:11:00.337] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+[2022-06-13 17:11:12.874] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+[2022-06-13 17:11:30.375] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1030
+[2022-06-13 17:11:50.964] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1030
+[2022-06-13 17:14:45.192] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1030
+[2022-06-13 17:14:46.400] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+[2022-06-13 17:14:50.249] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+[2022-06-13 17:15:06.108] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029

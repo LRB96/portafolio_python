@@ -1,0 +1,23 @@
+[Info  - 5:01:24 PM] (354) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 5:01:24 PM] (354) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 5:01:24 PM] (354) No configuration file found.
+[Info  - 5:01:24 PM] (354) No pyproject.toml file found.
+[Info  - 5:01:24 PM] (354) Setting pythonPath for service "fastapi_python": "/home/lrb96/fastapi_python/venv/bin/python"
+[Warn  - 5:01:24 PM] (354) stubPath /home/lrb96/fastapi_python/typings is not a valid directory.
+[Info  - 5:01:24 PM] (354) Assuming Python version 3.8
+[Info  - 5:01:24 PM] (354) Assuming Python platform Linux
+[Info  - 5:01:24 PM] (354) Searching for source files
+[Info  - 5:01:24 PM] (354) Auto-excluding /home/lrb96/fastapi_python/venv
+[Info  - 5:01:24 PM] (354) Found 1 source file
+[Info  - 5:01:24 PM] (354) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 5:01:24 PM] (354) Background analysis(1) started
+[Info  - 5:01:24 PM] (354) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 5:01:24 PM] (354) Indexing(2) started
+[Info  - 5:01:24 PM] (354) Indexer done(2). indexed 425 files
+[Info  - 5:15:46 PM] (354) Searching for source files
+[Info  - 5:15:46 PM] (354) Auto-excluding /home/lrb96/fastapi_python/venv
+[Info  - 5:15:46 PM] (354) Found 1 source file
+[Info  - 5:15:47 PM] (354) Searching for source files
+[Info  - 5:15:47 PM] (354) Auto-excluding /home/lrb96/fastapi_python/venv
+[Info  - 5:15:47 PM] (354) Found 1 source file

@@ -1,138 +1,3 @@
-git pull origin master
-git push origin master
-all
-clear
-cd curso_python_intermedio/
-avenv
-code .
-py filtrando_datos.py 
-python filtrando_datos.py 
-clear
-deactivate
-cd ..
-pwd
-sudo apt-get update
-sudo apt-get install python3.9
-cd curso_python_intermedio/
-avenv
-python filtrando_datos.py 
-code .
-python3 --version
-deactivate
-cd ..
-pwd
-source ~/punto_files/.bashrc
-all
-cd curso_python_intermedio/
-avenv
-all
-python filtrando_datos.py 
-python --version
-deactivate 
-cd ..
-pwd
-clear
-sudo apt update
-sudo apt install software-properties-common
-sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt install python3.9
-python3.9 --version
-cd curso_python_intermedio/
-avenv
-code .
-python filtrando_datos.py
-python --version
-python3.9 --version
-all
-sudo apt update
-sudo apt install software-properties-common
-sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt install python3.9
-python --version
-deactivate
-python filtrando_datos.py 
-py filtrando_datos.py 
-python3 filtrando_datos.py 
-python --version
-python --v
-python3.9 --version
-all
-avenv
-py filtrando_datos.py
-deactivate
-py filtrando_datos.py
-sudo apt install pythonpy
-py filtrando_datos.py
-all
-avenv
-py filtrando_datos.py
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-decativate
-deactivate
-/bin/python3.9 /home/lrb96/curso_python_intermedio/filtrando_datos.py
-cd curso_python_intermedio/
-cd ..
-~/punto_files/.bashrc
-~/punto_files/.bashrc
-sudo ~/punto_files/.bashrc
-source ~/punto_files/.bashrc
-all
-cd curso_python_intermedio/
-avenv
-deactivate
-python --version
-python3 --version
-python3.9 --version
-pwd
-python filtrando_datos.py
-python3.9 filtrando_datos.py
-avenv
-python3.9 filtrando_datos.py
-clear
-deactivate
-cd..
-cd ..
-git status
-git add .
-git commit -m "filtrado_de_datos.py sin ejercicio_final"
-git pull origin master
-git push origin master
-git ststus
-git status
-clear
-source ~/punto_files/.bashrc
-all
-explorer.exe .
-all
-rm -r proyecto_ejemplo/
-cd curso_python_intermedio/
-avenv
-deactivate
-cd ..
-all
-git status
-git add .
-git commit -m "commit_del_dia"
-git pull origin master
-git push origin master
-sudo apt get update
-sudo apt-get update
-sudo apt-get upgrade
-git status
-clear
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-/home/lrb96/curso_poo_algoritmos_python/venv/bin/python
-source ~/punto_files/.bashrc
-all
-explorer.exe .
-cd curso_poo_algoritmos_python/
-avenv
-python3.9 -m venv venv
-python3 -m venv venv
-all
-avenv
 source venv/bin/activate
 clear
 cd ..
@@ -498,3 +363,138 @@ git commit -m "otro_commit"
 git pull origin master
 git push origin master
 pwd
+source ~/punto_files/.bashrc
+all
+cd fast_api_python/
+avenv
+code .
+explorer.ex .
+explorer.exe .
+uvicorn hello_world_fast_api:app --reload
+code .
+explorer.exe .
+touch main.py
+code .
+uvicorn main:app --reload
+code. 
+code .
+uvicorn main:app --reload
+fastapi request abort
+web api request cancel
+sudo apt remove fastapi uvicorn
+sudo apt remove fastapi
+uvicorn main:app --reload
+explorer.exe .
+deactivate
+cd ..
+pwd
+rmdir fast_api_python/
+cd fast_api_python/
+rm venv/
+rmdir venv/
+cd ..
+[Crm -p fast_api_python/venv/
+rmdir -p fast_api_python/venv/
+cd fast_api_python/venv/bin/
+rm python
+cd ..
+cd ~
+rmdir fas
+rmdir fast_api_python/
+cd fast_api_python/venv/
+all
+cd bin/
+all
+cd ~
+all
+mkdir fastapi_python
+cd fastapi_python/
+python3 -m venv venv
+touch main.py
+avenv
+pip install fastapi uvicorn
+sudo pip install fastapi uvicorn
+code .
+uvicorn main:app --reload
+sudo apt install fastapi uvicorn
+uvicorn main:app --reload
+pip install fastapi uvicorn
+uvicorn main:app --reload
+sudo apt install uvicorn
+uvicorn main:app --reload
+pip fastapi uvicorn
+pip install fastapi uvicorn
+uvicorn main:app --reload
+sudo apt install uvicorn
+uvicorn main:app --reload
+python3 main.py
+uvicorn main:app --reload
+pip install fastapi
+uvicorn main:app --reload
+cd ..
+pwd
+uvicorn main:app --reload
+cd fastapi_python/
+all
+uvicorn main:app --reload
+pip install uvicorn
+deactivate
+cd ..
+pwd
+cd fastapi_python/
+avenv
+pip install fastapi uvicorn
+deactivate
+cd ..
+git status
+git add .
+git commit -m "commit"
+git pull origin master
+pwd
+git push origin master
+cd fastapi_python/venv/bin/
+all
+rm python
+cd ..
+cd ~
+all
+rmdir -p fastapi_python/venv/bin/
+git status
+git add .
+git commi -m "otro_commit.13.06.22"
+git commit -m "otro_commit.13.06.22"
+git pull origin master
+pwd
+source ~/punto_files/.bashrc
+all
+git status
+git pull origin master
+explorer.exe .
+git remote set -url git@github.com:LRB96/portafolio_python.git
+git remote set-url git@github.com:LRB96/portafolio_python.git
+git status
+git pull origin master
+git remote add origin git@github.com:LRB96/portafolio_python.git
+git pull origin master
+explorer.exe .
+cd .ssh
+all
+ls -al
+cd home/lrb96/.ssh/id_rsa
+ls -al
+cd .. 
+pwd
+cd home/lrb96/.ssh/id_rsa
+git pull origin master
+source ~/punto_files/.bashrc
+all
+git status
+git pull origin master
+git push origin master
+git status
+git pull origin master
+source ~/punto_files/.bashrc
+all
+git status
+git pull origin master
+git push origin master
