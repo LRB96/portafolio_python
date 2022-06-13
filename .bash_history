@@ -1,36 +1,3 @@
-all
-clear
-git status
-clear
-touch filtrando_datos.py
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-clear
-python filtrando_datos.py
-py -v
-python -v
-python filtrando_datos.py
-sudo apt-get update
-sudo apt-get upgrade
-python filtrando_datos.py
-clear
-deactivate
-cd ..
-pwd
-source ~/punto_files/.bashrc
-all
-git status
-git add .
-git commit -m "filtrando_datos.py"
 git pull origin master
 git push origin master
 all
@@ -498,3 +465,36 @@ git pull origin master
 git push origin master
 exti() exit()
 exit()
+pwd
+source ~/punto_files/.bashrc
+all
+cd fast_api_python/
+avenv
+code .
+cd ..
+pwd
+code .
+cd fast_api_python/
+explorer.exe .
+code .
+deactivate
+cd ..
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get update
+pwd
+cd ..
+sudo apt-get update
+sudo apt-get upgrade
+cd lrb96
+cd fast_api_python/
+avenv
+code .
+deactivate
+cd ..
+git status
+git add .
+git commit -m "otro_commit"
+git pull origin master
+git push origin master
+pwd
