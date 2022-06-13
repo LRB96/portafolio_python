@@ -1,25 +1,3 @@
-git status
-git add .
-git commit -m "filter,map,reduce"
-git pull origin master
-git push origin master
-git status
-celar
-clear
-pwd
-pwd
-sudo pat-get update
-sudo apt-get update
-sudo apt-get upgrade
-code .
-source /punto_files/.bashrc
-ls -al
-source ~/punto_files/.bashrc
-all
-cd ..
-pwd
-cd lrb96/curso_python_intermedio/
-avenv
 all
 clear
 git status
@@ -498,3 +476,25 @@ git commit -m "ultimo_commit_curso_profesional"
 git status
 git pull origin master
 git push origin master
+pwd
+cd lrb96
+source ~/punto_files/.bashrc
+all
+mkdir fast_api_python
+cd fast_api_python/
+py -m venv venv
+python3 -m  venv venv
+avenv
+touch hello_wolrd_fast_api.py
+code .
+pip install fastapi uvicorn
+deactivate
+cd ..
+pwd
+git status
+git add .
+git commit -m "primer_commit_fastapi"
+git pull origin master
+git push origin master
+exti() exit()
+exit()

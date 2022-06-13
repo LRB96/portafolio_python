@@ -3,3 +3,5 @@
 [2022-06-12 18:48:14.420] [remoteagent] [info] [127.0.0.1][ac63bd5b][ExtensionHostConnection] New connection established.
 [2022-06-12 18:48:14.580] [remoteagent] [info] [127.0.0.1][ac63bd5b][ExtensionHostConnection] <159> Launched Extension Host Process.
 [2022-06-12 18:48:14.648] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-es /home/lrb96/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.68.2
+[2022-06-12 18:50:41.585] [remoteagent] [info] [127.0.0.1][d88b869d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-12 18:50:41.628] [remoteagent] [info] [127.0.0.1][ac63bd5b][ExtensionHostConnection] <159> Extension Host Process exited with code: 0, signal: null.
