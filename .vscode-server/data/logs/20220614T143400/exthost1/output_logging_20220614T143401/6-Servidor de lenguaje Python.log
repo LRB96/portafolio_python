@@ -1,0 +1,35 @@
+[Info  - 2:43:44 PM] (322) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 2:43:44 PM] (322) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 2:43:44 PM] (322) No configuration file found.
+[Info  - 2:43:44 PM] (322) No pyproject.toml file found.
+[Info  - 2:43:44 PM] (322) Setting pythonPath for service "premiosplatzi": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 2:43:44 PM] (322) stubPath /home/lrb96/premiosplatzi/typings is not a valid directory.
+[Info  - 2:43:44 PM] (322) Unable to get Python version from interpreter
+[Info  - 2:43:44 PM] (322) Assuming Python platform Linux
+[Info  - 2:43:44 PM] (322) Searching for source files
+[Info  - 2:43:44 PM] (322) Auto-excluding /home/lrb96/premiosplatzi/venv
+[Info  - 2:43:44 PM] (322) Found 6 source files
+[Info  - 2:43:44 PM] (322) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 2:43:44 PM] (322) Background analysis(1) started
+[Info  - 2:43:44 PM] (322) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 2:43:44 PM] (322) Indexing(2) started
+[Info  - 2:43:45 PM] (322) Indexer done(2). indexed 423 files
+[Info  - 2:44:00 PM] (322) No configuration file found.
+[Info  - 2:44:00 PM] (322) No pyproject.toml file found.
+[Info  - 2:44:00 PM] (322) Setting pythonPath for service "premiosplatzi": "/home/lrb96/premiosplatzi/venv/bin/python"
+[Warn  - 2:44:00 PM] (322) stubPath /home/lrb96/premiosplatzi/typings is not a valid directory.
+[Info  - 2:44:00 PM] (322) Assuming Python version 3.8
+[Info  - 2:44:00 PM] (322) Assuming Python platform Linux
+[Info  - 2:44:00 PM] (322) Searching for source files
+[Info  - 2:44:00 PM] (322) Auto-excluding /home/lrb96/premiosplatzi/venv
+[Info  - 2:44:00 PM] (322) Found 6 source files
+[Info  - 2:44:00 PM] (322) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 2:44:00 PM] (322) Indexing(3) started
+[Info  - 2:44:01 PM] (322) Indexer done(3). indexed 439 files
+[Info  - 3:21:35 PM] (322) Searching for source files
+[Info  - 3:21:35 PM] (322) Auto-excluding /home/lrb96/premiosplatzi/venv
+[Info  - 3:21:35 PM] (322) Found 13 source files
+[Info  - 3:36:15 PM] (322) Searching for source files
+[Info  - 3:36:15 PM] (322) Auto-excluding /home/lrb96/premiosplatzi/venv
+[Info  - 3:36:15 PM] (322) Found 14 source files

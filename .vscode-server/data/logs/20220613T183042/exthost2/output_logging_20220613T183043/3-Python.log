@@ -1,0 +1,181 @@
+El experimento \"pythonaacf\" está activo
+El experimento \"pythonTensorboardExperiment\" está activo
+El experimento \"PythonPyTorchProfiler\" está activo
+LSP Notebooks experiment is disabled -- not in treatment group
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+> conda info --json
+[ERROR 2022-5-13 18:31:57.781]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-5-13 18:31:57.804]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-5-13 18:31:57.806]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-5-13 18:31:57.813]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /bin/python3.9 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3.9 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-5-13 18:31:57.939]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-5-13 18:31:57.939]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-5-13 18:31:57.955]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+[ERROR 2022-5-13 18:31:57.970]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+Iniciando el servidor de lenguaje Pylance.
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-5-13 18:31:58.134]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No se ha seleccionado ningún intérprete de Python. Debe seleccionar un intérprete de Python para habilitar características como IntelliSense, linting y depuración.
+[ERROR 2022-5-13 18:32:9.701]: sendStartupTelemetry() failed. [TypeError: Cannot read properties of undefined (reading 'uri')
+	at f (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:628016)
+	at t.sendStartupTelemetry (/home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/out/client/extension.js:2:629003)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)]
+> C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+[ERROR 2022-5-13 18:32:9.721]: [Error: Command failed: C:\Users\USUARIO\AppData\Local\Programs\Python\Python310\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersUSUARIOAppDataLocalProgramsPythonPython310python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 127,
+  signal: null,
+  cmd: 'C:\\Users\\USUARIO\\AppData\\Local\\Programs\\Python\\Python310\\python.exe -c "import sys;print(sys.executable)"'
+}
+> ~/fastapi_python/main.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+[ERROR 2022-5-13 18:33:33.539]: [Error: Command failed: /home/lrb96/fastapi_python/main.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/lrb96/fastapi_python/main.py: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '/home/lrb96/fastapi_python/main.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py'
+}
+> ./python ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py

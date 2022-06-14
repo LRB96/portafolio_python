@@ -1,0 +1,27 @@
+[Info  - 6:33:57 PM] (624) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 6:33:57 PM] (624) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 6:33:57 PM] (624) No configuration file found.
+[Info  - 6:33:57 PM] (624) No pyproject.toml file found.
+[Info  - 6:33:57 PM] (624) Setting pythonPath for service "bin": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 6:33:57 PM] (624) stubPath /home/lrb96/fastapi_python/venv/bin/typings is not a valid directory.
+[Info  - 6:33:57 PM] (624) Unable to get Python version from interpreter
+[Info  - 6:33:57 PM] (624) Assuming Python platform Linux
+[Info  - 6:33:57 PM] (624) Searching for source files
+[Info  - 6:33:57 PM] (624) No source files found.
+[Info  - 6:33:57 PM] (624) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+[Info  - 6:33:57 PM] (624) Background analysis(1) started
+[Info  - 6:33:57 PM] (624) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 6:33:57 PM] (624) Indexing(2) started
+[Info  - 6:33:58 PM] (624) Indexer done(2). indexed 423 files
+[Info  - 6:35:15 PM] (624) No configuration file found.
+[Info  - 6:35:15 PM] (624) No pyproject.toml file found.
+[Info  - 6:35:15 PM] (624) Setting pythonPath for service "bin": "/home/lrb96/fastapi_python/venv/lib/python3.8/site-packages/fastapi/__init__.py"
+[Warn  - 6:35:15 PM] (624) stubPath /home/lrb96/fastapi_python/venv/bin/typings is not a valid directory.
+[Info  - 6:35:15 PM] (624) Unable to get Python version from interpreter
+[Info  - 6:35:15 PM] (624) Assuming Python platform Linux
+[Info  - 6:35:15 PM] (624) Searching for source files
+[Info  - 6:35:15 PM] (624) No source files found.
+[Info  - 6:35:15 PM] (624) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (index)
+[Info  - 6:35:15 PM] (624) Indexing(3) started
+[Info  - 6:35:15 PM] (624) Indexer done(3). indexed 423 files

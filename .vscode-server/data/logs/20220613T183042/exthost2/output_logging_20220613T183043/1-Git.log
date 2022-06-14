@@ -1,0 +1,6 @@
+[2022-06-13T23:30:43.970Z] Nivel de registro: Info
+[2022-06-13T23:30:43.972Z] [info] La validación encontró Git en: git
+[2022-06-13T23:30:44.008Z] [info] Usando GIT 2.25.1 desde git
+[2022-06-13T23:33:46.128Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-13T23:33:46.138Z] > git rev-parse --git-dir --git-common-dir [5ms]
+[2022-06-13T23:33:46.144Z] [info] Open repository: /home/lrb96

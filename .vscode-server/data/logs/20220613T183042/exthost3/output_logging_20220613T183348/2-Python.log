@@ -1,0 +1,42 @@
+El experimento \"pythonaacf\" está activo
+El experimento \"pythonTensorboardExperiment\" está activo
+El experimento \"PythonPyTorchProfiler\" está activo
+LSP Notebooks experiment is disabled -- not in treatment group
+> conda info --json
+> ~/fastapi_python/main.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> ./python ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+[ERROR 2022-5-13 18:33:57.155]: [Error: Command failed: /home/lrb96/fastapi_python/main.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/lrb96/fastapi_python/main.py: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '/home/lrb96/fastapi_python/main.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py'
+}
+> /bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /bin/python3.9 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+> /usr/bin/python3.9 ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+Iniciando el servidor de lenguaje Pylance.
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No se ha seleccionado ningún intérprete de Python. Debe seleccionar un intérprete de Python para habilitar características como IntelliSense, linting y depuración.
+> ~/fastapi_python/venv/lib/python3.8/site-packages/fastapi/__init__.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+[ERROR 2022-5-13 18:35:15.196]: [Error: Command failed: /home/lrb96/fastapi_python/venv/lib/python3.8/site-packages/fastapi/__init__.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py
+/bin/sh: 1: /home/lrb96/fastapi_python/venv/lib/python3.8/site-packages/fastapi/__init__.py: Permission denied
+
+	at ChildProcess.exithandler (node:child_process:397:12)
+	at ChildProcess.emit (node:events:390:28)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:390:28)
+	at Pipe.<anonymous> (node:net:687:12)] {
+  killed: false,
+  code: 126,
+  signal: null,
+  cmd: '/home/lrb96/fastapi_python/venv/lib/python3.8/site-packages/fastapi/__init__.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/get_output_via_markers.py /home/lrb96/.vscode-server/extensions/ms-python.python-2022.8.0/pythonFiles/interpreterInfo.py'
+}

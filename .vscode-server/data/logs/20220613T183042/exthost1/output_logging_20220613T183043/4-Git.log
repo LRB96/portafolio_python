@@ -1,0 +1,20 @@
+[2022-06-13T23:30:44.749Z] Nivel de registro: Info
+[2022-06-13T23:30:44.751Z] [info] La validación encontró Git en: git
+[2022-06-13T23:30:45.220Z] [info] Usando GIT 2.25.1 desde git
+[2022-06-13T23:30:45.247Z] > git rev-parse --show-toplevel [18ms]
+[2022-06-13T23:30:45.318Z] > git rev-parse --git-dir --git-common-dir [63ms]
+[2022-06-13T23:30:45.325Z] [info] Open repository: /home/lrb96
+[2022-06-13T23:30:45.445Z] > git status -z -uall [111ms]
+[2022-06-13T23:30:45.454Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-13T23:30:45.474Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+[2022-06-13T23:30:45.501Z] > git remote --verbose [9ms]
+[2022-06-13T23:30:45.502Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+[2022-06-13T23:30:45.629Z] > git config --get commit.template [15ms]
+[2022-06-13T23:30:46.615Z] > git check-ignore -v -z --stdin [15ms]
+[2022-06-13T23:32:26.452Z] > git fetch [1253ms]
+[2022-06-13T23:32:26.512Z] > git status -z -uall [57ms]
+[2022-06-13T23:32:26.515Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-13T23:32:26.518Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-13T23:32:26.523Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+[2022-06-13T23:32:26.524Z] > git remote --verbose [1ms]
+[2022-06-13T23:32:26.580Z] > git config --get commit.template [1ms]

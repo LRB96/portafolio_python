@@ -1,69 +1,3 @@
-source venv/bin/activate
-clear
-cd ..
-cd curso_python_intermedio/
-avenv
-deactivate
-cd ..
-cd curso_poo_algoritmos_python/
-avenv
-source venv/bin/activate
-all
-rm -r venv
-all
-clear
-sudo apt install python-pip
-pip install virtaulenv
-sudo apt-get install python3-venv
-python3 -m venv venv
-avenv
-deactivate
-cd ..
-all
-cd curso_poo_algoritmos_python/
-avenv
-deactivate
-cd ..
-pwd
-clear
-git status
-git add .
-git commit -m "carpeta_poo_python"
-git pull origin master
-git push origin master
-clear
-cd curso_poo
-cd curso_poo_algoritmos_python/
-avenv
-code .
-python instancias.py
-python3 instancias.py
-python3.9 instancias.py
-clear
-python instancias.py
-clear
-touch herencia.py
-python herencia.py
-clear
-python herencia.py
-clear
-python herencia.py
-git add .
-deactivate
-cd ..
-all
-git status
-git add .
-git log
-clear
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
-source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
-/home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
 source /home/lrb96/curso_poo_algoritmos_python/venv/bin/activate
 /home/lrb96/curso_poo_algoritmos_python/venv/bin/python /home/lrb96/curso_poo_algoritmos_python/fibonacci.py
 cd curso_poo_algoritmos_python/
@@ -498,3 +432,79 @@ all
 git status
 git pull origin master
 git push origin master
+source ~/punto_files/.bashrc
+all
+cd fastapi_python
+mkdir fastapi_python
+cd fastapi_python/
+python3 -m venv venv
+touch main.py
+pip install fastapi uvicorn
+explorer.exe .
+code .
+uvicorn main:app --reload
+pip install uvicorn
+uvicorn main:app --reload
+sudo apt install uvicorn
+uvicorn main:app --reload
+pip install fastapi uvicorn
+uvicorn main:app --reload
+avenv
+uvicorn main:app --reload
+pip install fastapi uvicorn
+uvicorn main:app --reload
+deactivate
+cd ..
+git status
+git add .
+git commit -m "commit_fastapi_uvicorn"
+git pull origin master
+git push origin master
+cd fastapi_python/
+avenv
+pip install fastapi uvicorn
+python3 main.py
+all
+uvicorn main:app --reload
+python3 main.py
+uvicorn main:app
+uvicorn main:app --reload
+deactivate
+git status
+source ~/punto_files/.bashrc
+mkdir premiosplatzi
+cd premiosplatzi/
+python3 -m venv venv
+avenv
+pip install django
+django-admin startproject premiosplatziapp
+all
+touch .gitignore
+all
+deactivate
+cd ..
+git status
+cd fastapi_python/
+uvicorn main:app --reload
+avenv
+pip3 install uvloop
+uvicorn main:app --reload
+code .
+explorer.exe .
+code .
+uvicorn main:app --reload
+code .
+uvicorn main:app --reload
+deactivate
+cd ..
+pwd
+source ~/punto_files/.bashrc
+all
+cd premiosplatzi/
+avenv
+cd premiosplatziapp/
+all
+python3 manage.py startapp polls
+all
+deactivate
+cd ~

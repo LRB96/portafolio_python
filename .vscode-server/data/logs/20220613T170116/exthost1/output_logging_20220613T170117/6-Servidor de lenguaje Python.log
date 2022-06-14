@@ -21,3 +21,6 @@ Notebook support: Legacy
 [Info  - 5:15:47 PM] (354) Searching for source files
 [Info  - 5:15:47 PM] (354) Auto-excluding /home/lrb96/fastapi_python/venv
 [Info  - 5:15:47 PM] (354) Found 1 source file
+[Info  - 5:25:47 PM] (354) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist (refresh)
+[Info  - 5:25:47 PM] (354) Indexing(3) started
+[Info  - 5:25:47 PM] (354) Indexer done(3). indexed 435 files

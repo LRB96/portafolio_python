@@ -1,0 +1,9 @@
+[Info  - 6:31:58 PM] (335) Pylance language server 2022.6.10 (pyright bbc42826) starting
+[Info  - 6:31:58 PM] (335) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.10/dist
+Notebook support: Legacy
+[Info  - 6:33:46 PM] (335) No configuration file found.
+[Info  - 6:33:46 PM] (335) No pyproject.toml file found.
+[Info  - 6:33:46 PM] (335) Setting pythonPath for service "bin": "/home/lrb96/fastapi_python/main.py"
+[Warn  - 6:33:46 PM] (335) stubPath /home/lrb96/fastapi_python/venv/bin/typings is not a valid directory.
+[Info  - 6:33:46 PM] (335) Unable to get Python version from interpreter
+[Info  - 6:33:46 PM] (335) Assuming Python platform Linux
